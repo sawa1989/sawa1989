@@ -1,8 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FF3333&height=150&section=header)
 
+- Hi, I’m @sawa1989 
+- I’m interested in CLOUD, backend, infra.
+- I’m currently learning aws cloud, serverless programing
+
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
-<div align=center> 
+<div align=center float="left"> 
   <br>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -19,14 +23,11 @@
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
 </div>
 
-- Hi, I’m @sawa1989 
-- I’m interested in CLOUD, backend, infra.
-- I’m currently learning aws cloud, serverless programing
-
+<div>
 https://www.credly.com/badges/c4c825bc-cc1f-4146-9eaa-c31865d0af2d/public_url
-  
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sawa1989)](https://velog.io/@sawa1989)
 <br>
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=sawa1989)](https://solved.ac/sawa1989)
+</div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=FF3333&height=150&section=footer)
