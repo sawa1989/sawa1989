@@ -19,5 +19,6 @@
 - 📫 How to reach me https://velog.io/@sawa1989
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sawa1989)](https://velog.io/@sawa1989)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=sawa1989)](https://solved.ac/sawa1989)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
