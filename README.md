@@ -16,6 +16,6 @@
 - 🌱 I’m currently learning aws cloud, serverless programing
 - 📫 How to reach me https://velog.io/@sawa1989
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sawa1989)](https://velog.io/@sawa1989/%EC%B2%AB%EB%B2%88%EC%A7%B8-%EC%A4%80%EB%B9%84-aws-saa-%ED%9B%84%EA%B8%B0)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sawa1989)]https://velog.io/@sawa1989/첫번째-준비-aws-saa-후기)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
