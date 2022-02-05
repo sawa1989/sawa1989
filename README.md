@@ -28,12 +28,6 @@
 
 <hr>
 
-![sawa1989's github stats](https://github-readme-stats.vercel.app/api?username=sawa1989&show_icons=true)
-[![sawa1989's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sawa1989&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/sawa1989)
-
-<br>
-<br>
-
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sawa1989)](https://velog.io/@sawa1989)
 
 <br>
