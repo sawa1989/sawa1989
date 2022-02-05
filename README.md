@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Tech Stack%20render&fontSize=90)
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
@@ -16,6 +17,6 @@
 - 🌱 I’m currently learning aws cloud, serverless programing
 - 📫 How to reach me https://velog.io/@sawa1989
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sawa1989)]https://velog.io/@sawa1989/첫번째-준비-aws-saa-후기)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sawa1989)]((https://velog.io/@sawa1989)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
