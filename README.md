@@ -23,11 +23,10 @@
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
 </div>
 
-<div>
+
 https://www.credly.com/badges/c4c825bc-cc1f-4146-9eaa-c31865d0af2d/public_url
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sawa1989)](https://velog.io/@sawa1989)
-<br>
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=sawa1989)](https://solved.ac/sawa1989)
-</div>
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=FF3333&height=150&section=footer)
