@@ -3,6 +3,8 @@
 - Hi, I’m @sawa1989 
 - I’m interested in CLOUD, backend, infra.
 - I’m currently learning aws cloud, serverless programing
+- AWS SAA 20220204 
+- https://www.credly.com/badges/c4c825bc-cc1f-4146-9eaa-c31865d0af2d/public_url
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
@@ -26,7 +28,6 @@
 ![sawa1989's github stats](https://github-readme-stats.vercel.app/api?username=sawa1989&show_icons=true)
 [![sawa1989's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sawa1989&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/sawa1989)
 
-https://www.credly.com/badges/c4c825bc-cc1f-4146-9eaa-c31865d0af2d/public_url
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sawa1989)](https://velog.io/@sawa1989)
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=sawa1989)](https://solved.ac/sawa1989)
 
