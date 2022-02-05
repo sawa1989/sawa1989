@@ -15,6 +15,8 @@
 - 🌱 I’m currently learning aws cloud, serverless programing
 - 📫 How to reach me https://velog.io/@sawa1989
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c4c825bc-cc1f-4146-9eaa-c31865d0af2d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sawa1989)](https://velog.io/@sawa1989)
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=sawa1989)](https://solved.ac/sawa1989)
 
