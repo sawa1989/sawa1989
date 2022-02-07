@@ -33,7 +33,4 @@
 <br>
 <br>
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=sawa1989)](https://solved.ac/sawa1989)
-
-
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=FF3333&height=150&section=footer)
