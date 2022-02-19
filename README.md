@@ -3,6 +3,8 @@
 - Hi, I’m @sawa1989 
 - I’m interested in CLOUD infra.
 - I’m currently learning aws cloud & programming
+- I am obsessed with infra programming 
+- 
 - AWS SAA 20220204 
 - AWS SYSOPS now learning
 
