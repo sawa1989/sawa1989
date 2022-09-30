@@ -4,11 +4,13 @@
 - I’m interested in CLOUD infra.
 - I’m currently learning aws cloud & programming
 - I am obsessed with infra programming 
-- 
+
+- SSAFY 202101 ~ 202107
+- SBJ bank 202107 ~ 202210
+
 - AWS SAA 20220204 
 - AWS SYSOPS now learning
 
--  僕は荒んだ夢を夢ています
 - https://www.credly.com/badges/c4c825bc-cc1f-4146-9eaa-c31865d0af2d/public_url
 
 <hr>
