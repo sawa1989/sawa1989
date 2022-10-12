@@ -9,9 +9,10 @@
 - SBJ bank 202107 ~ 202210
 
 - AWS SAA 20220204 
-- AWS SYSOPS now learning
+- AWS SYSOPS 20221012
 
 - https://www.credly.com/badges/c4c825bc-cc1f-4146-9eaa-c31865d0af2d/public_url
+- https://www.credly.com/badges/85aa9b7b-f2ec-4129-8fcc-3859a79eaf20/public_url
 
 <hr>
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
