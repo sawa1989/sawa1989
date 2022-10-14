@@ -10,6 +10,7 @@
 
 - AWS SAA 20220204 
 - AWS SOA 20221012
+- AWS SAP -ing
 
 - https://www.credly.com/badges/c4c825bc-cc1f-4146-9eaa-c31865d0af2d/public_url
 - https://www.credly.com/badges/85aa9b7b-f2ec-4129-8fcc-3859a79eaf20/public_url
