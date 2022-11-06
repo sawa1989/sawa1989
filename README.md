@@ -8,7 +8,7 @@
 - SSAFY 202101 ~ 202107
 - SBJ bank 202107 ~ 202210
 
-<img width="50" height="50" src="https://user-images.githubusercontent.com/97671354/200174783-3a18c10b-34c0-4725-a196-16194063fcda.png" link = "https://www.credly.com/badges/37a06e8d-c016-4f53-af9a-f2bb9ed3e154/public_url"/>
+ <a href="https://www.credly.com/badges/37a06e8d-c016-4f53-af9a-f2bb9ed3e154/public_url"><img width="100" height="100" src="https://user-images.githubusercontent.com/97671354/200174783-3a18c10b-34c0-4725-a196-16194063fcda.png"/></a>
 - AWS SOA 20221012
 - AWS SAP -ing
 
