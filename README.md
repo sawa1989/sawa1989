@@ -12,9 +12,6 @@
 <a href="https://www.credly.com/badges/85aa9b7b-f2ec-4129-8fcc-3859a79eaf20/public_url"><img width="100" height="100" src="https://user-images.githubusercontent.com/97671354/200175149-1429c126-4c46-440d-b1a8-ae9ef943c7b0.png"/></a>
 <a href="https://www.credly.com/badges/6586cbb4-0fd6-4d06-a901-3c667bfadf7c/public_url"><img width="100" height="100" src="https://user-images.githubusercontent.com/97671354/200175239-518a7b45-28bd-49f5-baef-138709e0bcf9.png"/></a>
 
-- https://www.credly.com/badges/c4c825bc-cc1f-4146-9eaa-c31865d0af2d/public_url
-- https://www.credly.com/badges/85aa9b7b-f2ec-4129-8fcc-3859a79eaf20/public_url
-
 <hr>
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
