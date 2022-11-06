@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FF3333&height=150&section=header)
 
-- Hi, I’m @sawa1989 
+- GU KYO IN :)
 - I’m interested in CLOUD infra.
 - I’m currently learning aws cloud & programming
 - I am obsessed with infra programming 
