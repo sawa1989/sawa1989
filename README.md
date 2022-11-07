@@ -35,8 +35,8 @@
 <hr>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sawa1989)](https://velog.io/@sawa1989)
-![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=noryoah1975)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=noryoah1975)](https://solved.ac/profile/noryoah1975)
 
 <br>
 <br>
