@@ -2,8 +2,7 @@
 
 - GU KYO IN :)
 - I’m interested in CLOUD infra.
-- I’m currently learning aws cloud & programming
-- I am obsessed with infra programming 
+- I am obsessed with DEVOPS 
 
 - SSAFY 202101 ~ 202107
 - SBJ bank 202107 ~ 202210
