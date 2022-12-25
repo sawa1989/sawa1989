@@ -37,11 +37,14 @@
 </div>
 
 <hr>
-<div align=center float="left"> 
+
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sawa1989)](https://velog.io/@sawa1989)
+
+</br>
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=noryoah1975)](https://solved.ac/profile/noryoah1975)
-</div>
+
 <br>
 <br>
 
