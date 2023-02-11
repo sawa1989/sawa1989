@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FF3333&height=150&section=header)
 
-- GU KYO IN :)
 - I’m interested in CLOUD infra.
 - I am obsessed with DEVOPS 
 
