@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FF3333&height=150&section=header)
 
-- I’m interested in CLOUD infra.
-- I am obsessed with DEVOPS 
+- I’m interested in CLOUD.
 
 - SSAFY 202101 ~ 202107 WEB, JAVA
 - SBJ bank 202107 ~ 202210 CoreBanking, Infra
