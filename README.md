@@ -2,7 +2,6 @@
 
 - I’m interested in CLOUD.
 
-- SSAFY 202101 ~ 202107 WEB, JAVA
 - SBJ bank 202107 ~ 202210 CoreBanking, Infra
 - Megazone cloud 202211 ~ AWS, EKS, K8S, IAC
 
