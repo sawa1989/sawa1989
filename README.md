@@ -10,7 +10,7 @@
 <a href="https://www.credly.com/badges/85aa9b7b-f2ec-4129-8fcc-3859a79eaf20/public_url"><img width="100" height="100" src="https://user-images.githubusercontent.com/97671354/200175149-1429c126-4c46-440d-b1a8-ae9ef943c7b0.png"/></a>
 <a href="https://www.credly.com/badges/6586cbb4-0fd6-4d06-a901-3c667bfadf7c/public_url"><img width="100" height="100" src="https://user-images.githubusercontent.com/97671354/200175239-518a7b45-28bd-49f5-baef-138709e0bcf9.png"/></a>
 <a href="https://www.credly.com/badges/384d497b-9b58-4892-9394-11ac8fac2c9b/public_url"><img width="100" height="100" src="https://user-images.githubusercontent.com/97671354/208661798-3b81b2c7-0053-4cc6-9d34-07d63cf0fad4.png"/></a>
-<a href="https://www.credly.com/badges/04e6673c-6660-4c5b-86b2-7955d40f06f3/public_url"><img width="100" height="100" src="https://user-images.githubusercontent.com/97671354/237939442-4c041fb3-e905-471d-b7b1-741f4f9032ab.png"/></a>
+<a href="https://www.credly.com/badges/04e6673c-6660-4c5b-86b2-7955d40f06f3/public_url"><img width="110" height="110" src="https://user-images.githubusercontent.com/97671354/237939442-4c041fb3-e905-471d-b7b1-741f4f9032ab.png"/></a>
 
 <hr>
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
