@@ -9,8 +9,8 @@
  <a href="https://www.credly.com/badges/37a06e8d-c016-4f53-af9a-f2bb9ed3e154/public_url"><img width="100" height="100" src="https://user-images.githubusercontent.com/97671354/200174783-3a18c10b-34c0-4725-a196-16194063fcda.png"/></a>
 <a href="https://www.credly.com/badges/85aa9b7b-f2ec-4129-8fcc-3859a79eaf20/public_url"><img width="100" height="100" src="https://user-images.githubusercontent.com/97671354/200175149-1429c126-4c46-440d-b1a8-ae9ef943c7b0.png"/></a>
 <a href="https://www.credly.com/badges/6586cbb4-0fd6-4d06-a901-3c667bfadf7c/public_url"><img width="100" height="100" src="https://user-images.githubusercontent.com/97671354/200175239-518a7b45-28bd-49f5-baef-138709e0bcf9.png"/></a>
-<a href="https://www.credly.com/badges/384d497b-9b58-4892-9394-11ac8fac2c9b/public_url"><img width="100" height="100" src="https://user-images.githubusercontent.com/97671354/208661798-3b81b2c7-0053-4cc6-9d34-07d63cf0fad4.png"/></a>
-<a href="https://www.credly.com/badges/384d497b-9b58-4892-9394-11ac8fac2c9b/public_url"><img width="100" height="100" src="https://github.com/sawa1989/CodingTest/assets/97671354/4c041fb3-e905-471d-b7b1-741f4f9032ab"/></a>
+<a href="https://www.credly.com/badges/384d497b-9b58-4892-9394-11ac8fac2c9b/public_url"><img width="100" height="100" src="https://user-images.githubusercontent.com/97671354/208661798-3b81b2c7-0053-4cc6-9d34-07d63cf0fad4.png"/></a>'
+<a href="https://www.credly.com/badges/384d497b-9b58-4892-9394-11ac8fac2c9b/public_url"><img width="100" height="100" src="https://user-images.githubusercontent.com/97671354/237939442-4c041fb3-e905-471d-b7b1-741f4f9032ab.png"/></a>
 
 <hr>
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
