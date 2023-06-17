@@ -16,7 +16,7 @@
 
 
 <hr>
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+<h3 align="center"><b>🛠 On the WAY 🛠</b></h3>
 <div align=center float="left"> 
   <br>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
