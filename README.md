@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=40AEF0&height=150&section=header)
 
+# Sailing 
 <div style="display:flex;">
     <p> SSAFY 202101 ~ 202107 <br> SBJ bank 202107 ~ 202210 CoreBanking, Infra <br> Megazone cloud 202211 ~ AWS, EKS, K8S, IAC <br> </p> 
 </div>
@@ -52,9 +53,7 @@
 
 <hr>
 
-<div align='left'>
-  <img width="49%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=noryoah1975&color=dark">
-</div>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=noryoah1975)](https://solved.ac/noryoah1975/)
 
 <br>
 <br>
