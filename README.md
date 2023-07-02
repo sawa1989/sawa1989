@@ -14,7 +14,7 @@
 <a href="https://www.credly.com/badges/867a0459-4531-4dce-b2d1-11fb02293c49/public_url"><img width="100" height="100" src="https://user-images.githubusercontent.com/97671354/243282964-fd270080-740f-408d-8064-e10e8fa46033.png"/></a>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={noryoah1975})](https://solved.ac/{noryoah1975})
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=noryoah1975)](https://solved.ac/noryoah1975)
 
  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sawa1989)](https://velog.io/@sawa1989)
 
