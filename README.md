@@ -58,7 +58,16 @@
 
  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sawa1989)](https://velog.io/@sawa1989)
 
-
+<table>
+  <tr>
+    <td align="right">
+      <img width="49%" src="https://velog-readme-stats.vercel.app/api?name=sawa1989&color=dark">
+    </td>
+    <td align="left">
+      <img width="49%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=noryoah1975&color=dark">
+    </td>
+  </tr>
+</table>
 
 <div align='right'>
   <img width="49%" src="https://velog-readme-stats.vercel.app/api?name=sawa1989&color=dark">
