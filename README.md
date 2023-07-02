@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=40AEF0&height=150&section=header)
 
-# Sailing 
+# 🌊 ⛵ Sailing ⛵ 🌊
 <div style="display:flex;">
     <p> SSAFY 202101 ~ 202107 <br> SBJ bank 202107 ~ 202210 CoreBanking, Infra <br> Megazone cloud 202211 ~ AWS, EKS, K8S, IAC <br> </p> 
 </div>
@@ -15,7 +15,7 @@
  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sawa1989)](https://velog.io/@sawa1989)
 
 <hr>
-<h3 align="center"><b>🛠 On the WAY 🛠</b></h3>
+<h3 align="center"><b> ⚓ On the WAY ⚓ </b></h3>
 <div align=center float="left"> 
   <br>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
