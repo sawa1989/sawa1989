@@ -78,7 +78,15 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=noryoah1975)](https://solved.ac/profile/noryoah1975)
 
+<div align='right'>
+  <img width="49%" src="https://velog-readme-stats.vercel.app/api?name=sawa1989&color=dark">
+</div>
 
+<br>
+
+<div align='left'>
+  <img width="49%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=noryoah1975&color=dark">
+</div>
 </div>
 <br>
 <br>
