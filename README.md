@@ -2,9 +2,9 @@
 
 <div style="display: flex;">
 <div style="width:50%;">
- SSAFY 202101 ~ 202107
- SBJ bank 202107 ~ 202210 CoreBanking, Infra
- Megazone cloud 202211 ~ AWS, EKS, K8S, IAC
+ SSAFY 202101 ~ 202107 <br>
+ SBJ bank 202107 ~ 202210 CoreBanking, Infra <br>
+ Megazone cloud 202211 ~ AWS, EKS, K8S, IAC <br>
 </div>
 <div style="width:50%;">
  <img width="49%" src="https://velog-readme-stats.vercel.app/api?name=sawa1989&color=dark">
