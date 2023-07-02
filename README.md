@@ -1,11 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=40AEF0&height=150&section=header)
 
-| Left                                                                 | Right                                                                           |
-| -------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| - SSAFY 202101 ~ 202107                                              | ![Image](https://velog-readme-stats.vercel.app/api?name=sawa1989&color=dark)    |
-| - SBJ bank 202107 ~ 202210 CoreBanking, Infra                         |                                                                                 |
-| - Megazone cloud 202211 ~ AWS, EKS, K8S, IAC                          |                                                                                 |
-
+<div style="display: flex;">
+<div style="width:50%;">
+- SSAFY 202101 ~ 202107
+- SBJ bank 202107 ~ 202210 CoreBanking, Infra
+- Megazone cloud 202211 ~ AWS, EKS, K8S, IAC
+</div>
+<div style="width:50%;">
+ <img width="49%" src="https://velog-readme-stats.vercel.app/api?name=sawa1989&color=dark">
+</div>
+</div>
 
  <a href="https://www.credly.com/badges/37a06e8d-c016-4f53-af9a-f2bb9ed3e154/public_url"><img width="100" height="100" src="https://user-images.githubusercontent.com/97671354/200174783-3a18c10b-34c0-4725-a196-16194063fcda.png"/></a>
 <a href="https://www.credly.com/badges/85aa9b7b-f2ec-4129-8fcc-3859a79eaf20/public_url"><img width="100" height="100" src="https://user-images.githubusercontent.com/97671354/200175149-1429c126-4c46-440d-b1a8-ae9ef943c7b0.png"/></a>
