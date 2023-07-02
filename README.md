@@ -5,6 +5,7 @@
 - SBJ bank 202107 ~ 202210 CoreBanking, Infra 
 - Megazone cloud 202211 ~ AWS, EKS, K8S, IAC 
 
+
  <a href="https://www.credly.com/badges/37a06e8d-c016-4f53-af9a-f2bb9ed3e154/public_url"><img width="100" height="100" src="https://user-images.githubusercontent.com/97671354/200174783-3a18c10b-34c0-4725-a196-16194063fcda.png"/></a>
 <a href="https://www.credly.com/badges/85aa9b7b-f2ec-4129-8fcc-3859a79eaf20/public_url"><img width="100" height="100" src="https://user-images.githubusercontent.com/97671354/200175149-1429c126-4c46-440d-b1a8-ae9ef943c7b0.png"/></a>
 <a href="https://www.credly.com/badges/6586cbb4-0fd6-4d06-a901-3c667bfadf7c/public_url"><img width="100" height="100" src="https://user-images.githubusercontent.com/97671354/200175239-518a7b45-28bd-49f5-baef-138709e0bcf9.png"/></a>
@@ -13,6 +14,7 @@
 <br>
 <a href="https://www.credly.com/badges/867a0459-4531-4dce-b2d1-11fb02293c49/public_url"><img width="100" height="100" src="https://user-images.githubusercontent.com/97671354/243282964-fd270080-740f-408d-8064-e10e8fa46033.png"/></a>
 
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sawa1989)](https://velog.io/@sawa1989)
 
 <hr>
 <h3 align="center"><b>🛠 On the WAY 🛠</b></h3>
@@ -52,8 +54,6 @@
 </div>
 
 <hr>
-
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sawa1989)](https://velog.io/@sawa1989)
 
 <div align='left'>
   <img width="49%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=noryoah1975&color=dark">
