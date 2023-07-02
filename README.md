@@ -2,6 +2,7 @@
 
 - I’m interested in CLOUD.
 
+ιστίο, wade
 - SSAFY 202101 ~ 202107
 - SBJ bank 202107 ~ 202210 CoreBanking, Infra
 - Megazone cloud 202211 ~ AWS, EKS, K8S, IAC
