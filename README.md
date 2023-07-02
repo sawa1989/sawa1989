@@ -1,8 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=40AEF0&height=150&section=header)
 
-- I’m interested in CLOUD.
-
-<h3 align="center"><b> 🌊 istio, wade 🌊 </b></h3>
 
 - SSAFY 202101 ~ 202107
 - SBJ bank 202107 ~ 202210 CoreBanking, Infra
@@ -53,37 +50,10 @@
 
   
 </div>
-<sytle>
-    <style>
-    div {
-        width: 100%;
-        height: 300px;
-    }
-    div.left {
-        width: 50%;
-        float: left;
-        box-sizing: border-box;
-    }
-    div.right {
-        width: 50%;
-        float: right;
-        box-sizing: border-box;
 
-    }
-    </style>
- 
-</sytle>
-
-<body>
-    <div>
-        <div class="left"></div>
-     [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sawa1989)](https://velog.io/@sawa1989)
-        <div class="right"></div>
-    </div>
-</body>
 <hr>
 
-
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sawa1989)](https://velog.io/@sawa1989)
 </br>
 
 [![Solved.ac
