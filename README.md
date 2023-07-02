@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FF3333&height=150&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=40AEF0&height=150&section=header)
 
 - I’m interested in CLOUD.
 
@@ -65,4 +65,4 @@
 <br>
 <br>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=FF3333&height=150&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=40AEF0&height=150&section=footer)
