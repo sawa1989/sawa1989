@@ -7,7 +7,8 @@
 
 <div style="display:flex;">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=noryoah1975&color=dark" style="float:left;" />
-    <p> SSAFY 202101 ~ 202107 <br> SBJ bank 202107 ~ 202210 CoreBanking, Infra <br> Megazone cloud 202211 ~ AWS, EKS, K8S, IAC <br> </p>
+    <!--
+    <p> SSAFY 202101 ~ 202107 <br> SBJ bank 202107 ~ 202210 CoreBanking, Infra <br> Megazone cloud 202211 ~ AWS, EKS, K8S, IAC <br> </p> -->
 </div>
  <a href="https://www.credly.com/badges/37a06e8d-c016-4f53-af9a-f2bb9ed3e154/public_url"><img width="100" height="100" src="https://user-images.githubusercontent.com/97671354/200174783-3a18c10b-34c0-4725-a196-16194063fcda.png"/></a>
 <a href="https://www.credly.com/badges/85aa9b7b-f2ec-4129-8fcc-3859a79eaf20/public_url"><img width="100" height="100" src="https://user-images.githubusercontent.com/97671354/200175149-1429c126-4c46-440d-b1a8-ae9ef943c7b0.png"/></a>
