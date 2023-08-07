@@ -1,4 +1,4 @@
-# 🌊  ⛵  Sailing  ⛵  🌊
+# 🌊 🌊 🌊
 <div style="display:flex;">
     <p> SSAFY 202101 ~ 202107 <br> SBJ bank 202107 ~ 202210 CoreBanking, Infra <br> Megazone cloud 202211 ~ AWS, EKS, K8S, IAC <br> </p> 
     
