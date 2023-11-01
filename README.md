@@ -11,6 +11,7 @@
 <a href="https://www.credly.com/badges/867a0459-4531-4dce-b2d1-11fb02293c49/public_url"><img width="100" height="100" src="https://user-images.githubusercontent.com/97671354/243282964-fd270080-740f-408d-8064-e10e8fa46033.png"/></a>
 <a href="https://www.credly.com/badges/bae985f9-135a-4d3f-bfd3-e5f7f8835551/public_url"><img width="100" height="100" src="https://user-images.githubusercontent.com/97671354/259071297-c1749b2c-f79c-4761-b2b4-ccc9aebf19ad.png"/></a>
 <a href="https://www.credly.com/badges/41ae77c0-8935-47f1-81db-0df49e0a2a36/public_url"><img width="100" height="100" src="https://user-images.githubusercontent.com/97671354/270610787-f28d7f13-0187-4899-8caf-7c6f932faead.png"/></a>
+<a href="https://www.credly.com/badges/15346908-cbde-416c-9831-66c452d46818/public_url"><img width="100" height="100" src="https://user-images.githubusercontent.com/97671354/279666484-b26ae1b9-71bd-4d2e-902f-3d9777f83dc9.png"/></a>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=noryoah1975)](https://solved.ac/noryoah1975)
@@ -24,6 +25,7 @@
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
@@ -50,7 +52,6 @@
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white">
   <img src="https://img.shields.io/badge/istio-466BB0?style=for-the-badge&logo=istio&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white">
 </div>
 
 
