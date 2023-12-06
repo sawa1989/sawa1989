@@ -56,6 +56,8 @@
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white">
   <img src="https://img.shields.io/badge/istio-466BB0?style=for-the-badge&logo=istio&logoColor=white">
   <br>
+ <img src="https://img.shields.io/badge/MSK-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
+    <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white">
 </div>
 
 
