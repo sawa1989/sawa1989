@@ -1,7 +1,7 @@
 # 🌊 🌊 🌊
 <div style="display:flex;">
     <br> Swifties <br>
-    <br> Megazone cloud 202211 ~ AWS, EKS, K8S, IAC <br> </p>  
+    <br> Megazone cloud 202211 ~  <br> </p>  
 </div>
 <a href="https://www.credly.com/badges/3890c41c-325d-4867-b9e1-c40123e6877d/public_url"><img width="100" height="100" src="https://github.com/sawa1989/CodingTest/assets/97671354/c4f303bd-3251-48d1-a72d-c456b4d4a693"/></a>
  <a href="https://www.credly.com/badges/37a06e8d-c016-4f53-af9a-f2bb9ed3e154/public_url"><img width="100" height="100" src="https://user-images.githubusercontent.com/97671354/200174783-3a18c10b-34c0-4725-a196-16194063fcda.png"/></a>
