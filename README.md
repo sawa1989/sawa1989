@@ -1,6 +1,5 @@
 # 🌊 🌊 🌊
 <div style="display:flex;">
-    <br> Swifties <br>
     <br> Megazone cloud 202211 ~  <br> </p>  
 </div>
 <a href="https://www.credly.com/badges/3890c41c-325d-4867-b9e1-c40123e6877d/public_url"><img width="100" height="100" src="https://github.com/sawa1989/CodingTest/assets/97671354/c4f303bd-3251-48d1-a72d-c456b4d4a693"/></a>
