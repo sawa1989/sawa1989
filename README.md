@@ -17,7 +17,7 @@
 <a href="https://www.credly.com/badges/5cf3eb87-d974-475e-859a-70ec3376320b/public_url"><img width="100" height="100" src="https://github.com/sawa1989/CodingTest/assets/97671354/4316c665-8a70-4d87-854d-f42361a96dad"/></a>
 <a href="https://www.credly.com/badges/76d64ccd-088e-4c53-9ea6-2dd3543eede0/public_url"><img width="100" height="100" src="https://github.com/sawa1989/CodingTest/assets/97671354/499ce3a7-c75d-432b-b9e2-f58b290a90f7"/></a>
 <a href="https://www.credly.com/badges/09dfd5a0-fb03-48bb-962b-80631182ebdb/public_url"><img width="100" height="100" src="https://github.com/sawa1989/CodingTest/assets/97671354/6ec4b197-e0ab-4a05-855f-a91745287f96"/></a>
-<a href="https://www.credly.com/badges/53b73669-ffa0-45b9-9d0c-530769d21d18/public_url"><img width="100" height="100" src=""/></a>
+<a href="https://www.credly.com/badges/53b73669-ffa0-45b9-9d0c-530769d21d18/public_url"><img width="100" height="100" src="https://github.com/sawa1989/CodingTest/assets/97671354/107c9417-daf2-4e9d-a641-7455c6682e60"/></a>
 
 
 [![Solved.ac
